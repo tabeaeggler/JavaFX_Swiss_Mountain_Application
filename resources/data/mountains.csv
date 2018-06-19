@@ -1,0 +1,32 @@
+#id;name;height;type;region;cantons;range;isolation;isolationPoint;prominence;prominencePoint;caption
+0;Albis, Bürglen;916.0;Hauptgipfel;Mittelland;;Albiskette;12.0;Wilerberg;376.0;Sihlbrugg Punkt 540;Albiskette vom Uetliberg
+1;Aletschhorn;4193.0;Hauptgipfel;Wallis;;Aletschgebiet;13.3;Finsteraarhorn;1020.0;Lötschenlücke;Aletschhorn von Süden
+2;Allalinhorn;4027.0;Nebengipfel;Walliser Alpen;;;2.1;Rimpfischhorn;255.0;Alphubeljoch;Allalinhorn von Nordost
+3;Alperschällihorn;3036.0;Hauptgipfel;Adula-Alpen;;Splügener Kalkberge;4.9;Bruschghorn;425.0;Alperschällilücke;Alperschällihorn von Osten
+4;Alphubel;4206.0;Hauptgipfel;Wallis;;Mischabel-Gruppe;2.1;Täschhorn;359.0;Mischabeljoch;Alphubel vom Allalinhorn
+5;Altels;3629.0;Nebengipfel;Berner Alpen;;Balmhorngruppe;1.27;Balmhorn;101.0;Punkt 3528 E zum Balmhorn;Altels
+6;Altenalptürm;2033.0;Nebengipfel;Ostschweiz;;Alpstein;0.43;Hängeten;133.0;Lötzlialpsattel;Altenalp Türm von Westen
+7;Altmann;2436.0;Hauptgipfel;Ostschweiz;;Alpstein;2.45;Säntis;315.0;Rotsteinpass;über dem Seealpsee, Altmann links
+8;Alvier;2343.0;Nebengipfel;Ostschweiz;;Alvierkette;2.62;Gross-Fulfirst;243.0;Punkt 2100;Alvier 2ter von rechts
+9;Aubrig;1695.0;Hauptgipfel;Schwyz;;Schwyzer Alpen;6.28;Fluebrig;327.0;Fläschlihöchi;Aubrig
+10;Bächenstock;2944.0;Nebengipfel;Urner Alpen;;Diederberge;0.6;Rienzenstock;53.0;Punkt 2891;Bächenstock von der Fellilücke
+11;Bachtel;1115.0;Hauptgipfel;Mittelland;;Zürcher Oberland;4.7;Dürrspitz;358.0;Gibswil;Bachtel vom Pfäffikersee
+12;Badus;2928.0;Hauptgipfel;Graubünden/Uri;;Gotthardmassiv;5.05;Piz Ravetsch;529.0;Pass Tagliola /Lolenpass;Badus/Six Madun
+13;Balmhorn;3698.0;Hauptgipfel;Berner Alpen;;Balmhorngruppe;12.85;Bietschhorn;1008.0;Lötschenpass;Balmhorn
+14;Bella Tola;3025.0;Nebengipfel;Wallis;;;3.85;Turtmannspitze;235.0;Meidpass;Bella Tola links und Rothorn rechts
+15;Bellavista;3922.0;Nebengipfel;Engadin;;Berninagruppe;0.66;Piz Zupò;82.0;Pass dal Zupo;Bellavista von Bovalhütte
+16;Bietschhorn;3934.0;Hauptgipfel;Wallis;;Aletsch;14.0;Aletschhorn;906.0;Beichpass;Bietschhorn über dem Lötschental
+17;Bifertenstock;3419.0;Hauptgipfel;Glarner Alpen;;Brigelserhörner;2.85;Glarner Tödi;357.0;Punkt 3062 westlich Bündner Tödi;Bifertenstock aus Nordost von Braunwald
+18;Blüemlisalp;3661.0;Hauptgipfel;Berner Alpen;;Blüemlisalp(gruppe);8.5;Breithorn;874.0;Tschingelpass;Blüemlisalp, Mitte, vom Oeschinensee
+19;Blüemlisalp Rothore;3297.0;Nebengipfel;Berner Alpen;;Blüemlisalpgruppe;0.72;Blüemlisalphorn;46.0;NE;Blüemlisalp Rothore links
+20;Born;719.0;Nebengipfel;Mittelland;;;4.21;Homberg;287.0;Härkingen;Born von Westen über der Kirche von Gunzgen
+21;Bös Fulen;2801.0;Hauptgipfel;Glarner Alpen;;Silberen-Glärnisch;4.4;Bächistock;368.0;Punkt 2434 NE;Bös Fulen Nordseite
+22;Breithorn BE/VS;3780.0;Hauptgipfel;Berner Alpen;;;4.75;Mittaghorn;443.0;Schmadrijoch;Breithorn von Norden
+23;Breithorn VS;4164.0;Hauptgipfel;Walliser Alpen;;;5.69;Castor;433.0;Schwarztor;Breithorn von Westen
+24;Brienzer Rothorn;2350.0;Hauptgipfel;Emmentaler Alpen;;;10.71;Flanke Gärstenhoren;1242.0;Brünigpass;Brienzer Rothorn von Osten
+25;Brisen;2404.0;Nebengipfel;Zentralschweiz;;Urner Alpen;0.58;Hoh Brisen;70.0;Sattel zum Hoh Brisen;Brisen beim Aufstieg vom westlich gelegenen Haldigrat
+26;Brisi;2279.0;Hauptgipfel;Walensee;;Churfirsten;2.14;Hinterrugg;325.0;Punkt 1954;Brisi vierter von links
+27;Brünnelistock;2133.0;Nebengipfel;Glarner Alpen;;;4.64;Redertenstock;250.0;Ober Zindeln;Brünnelistock von Osten über dem Obersee
+28;Bruschghorn;3056.0;Hauptgipfel;Adula-Alpen;;;16.71;Fanellhorn;570.0;Safierberg;Bruschghorn von Turrahuus
+29;Burgfeldstand;2063.0;Hauptgipfel;Emmentaler Alpen;;Güggisgrat;9.4;Augstmatthorn;537.0;Grüenenbergpass;Güggisgrat von Nordwest
+30;Haldensteiner Calanda;2806.0;Hauptgipfel;Bündner Rheintal;;Calanda;6.8;Punkt 2973 E Ringelspitz;1449.0;Kunkelspass;Calanda aus Südwesten
